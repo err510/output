@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+public:: true
+>>>>>>> fdd6df9 (the first commit)
 src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
 type:: logseq theme
 
