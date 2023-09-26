@@ -19,6 +19,8 @@
     sans-serif;
   --ct-page-title-font-family: var(--ls-font-family);
   --ct-code-font-family: "Fira Code", monospace;
+   --ls-right-sidebar-width: 25vw;
+  --ls-left-sidebar-width: 17vw;
 }
 
 html,
