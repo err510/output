@@ -1272,5 +1272,5 @@ html[data-theme=white] {
 :root {
   --ls-block-bullet-threading-width: 2px;
   --ls-right-sidebar-width: 25vw;
-  --ls-left-sidebar-width: 20vw;
+  --ls-left-sidebar-width: 25vw;
 }
