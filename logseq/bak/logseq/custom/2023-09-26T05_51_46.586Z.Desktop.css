@@ -180,7 +180,7 @@ html.is-native-iphone #left-sidebar {
   background: var(--ct-sidebar-resizer-background);
   width: var(--ct-sidebar-padding);
   touch-action: none;
-  z-index: 800;
+  z-index: 2000;
   opacity: 1;
   transition: background-color 0.2s 0.1s;
 }
