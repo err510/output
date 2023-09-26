@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-=======
-public:: true
->>>>>>> fdd6df9 (the first commit)
-src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
-type:: logseq theme
-
-- # H1 Title
+# H1 Title
 - ## H2 Sub Title
 - ### H3 Section Title
 - #### H4 Section Sub Title
@@ -14,7 +7,6 @@ type:: logseq theme
 - `Inline Code` ^^Highlighted^^ Normal Text,  _italic texts_ and tag #[[Logseq theme]]
 - Some text that will be referenced
   id:: 60d34662-6747-46cd-a790-6dcb691b0256
-  collapsed:: true
 	- LATER [#A] high priority task
 	  waiting:: 1624459006771
 	  later:: 1624459014212
